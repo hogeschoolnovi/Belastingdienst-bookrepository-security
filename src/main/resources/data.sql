@@ -1,0 +1,2 @@
+INSERT INTO books (id, title, author_name, published) values (1001, 'initialized', 'Henk', '2003/09/09'),
+                                                             (1002, 'testbook', 'Anne', '2003/08/07');
